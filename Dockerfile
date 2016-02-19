@@ -1,6 +1,6 @@
 FROM a8_dev
 
-MAINTAINER Glen Marchesani "https://github.com/fizzy33"
+MAINTAINER Accur8 Software "https://github.com/accur8"
 
 WORKDIR /root/
 
