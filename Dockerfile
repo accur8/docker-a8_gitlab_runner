@@ -1,4 +1,4 @@
-FROM a8_dev
+FROM accur8/a8_dev:latest
 
 MAINTAINER Accur8 Software "https://github.com/accur8"
 
